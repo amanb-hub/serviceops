@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --sidebar-bg: #0f1a2e;
+  --sidebar-border: #1c2b45;
+}
+
+body {
+  background-color: #f5f7fa;
+  color: #101828;
+}
